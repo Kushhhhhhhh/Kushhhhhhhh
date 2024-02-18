@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kush Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushhhhhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kushhhhhhhh" /> </p>
 
 - 🔭 I’m currently working on [SnapCode](https://github.com/Kushhhhhhhh/snapcode)
 
