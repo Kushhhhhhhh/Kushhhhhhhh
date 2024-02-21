@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [SnapCode](https://github.com/Kushhhhhhhh/snapcode)
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://kushfolio.vercel.app/](https://kushfolio.vercel.app/)
 
