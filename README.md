@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://kushcore.vercel.app/](https://kushcore.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kushfolio.vercel.app/](https://kushfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React JS**
 
