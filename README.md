@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushhhhhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kushhhhhhhh" /> </p>
 
-- 🔭 I’m currently working on [Silent Survey](https://github.com/Kushhhhhhhh/Silent-Survey)
+- 🔭 I’m currently working on [Kush Blog](https://github.com/Kushhhhhhhh/KushBlog-UI)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS FullStack**
 
-- 👨‍💻 All of my projects are available at [https://kushfolio.vercel.app/](https://kushfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kushsharma.vercel.app/](https://kushsharma.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React JS**
 
