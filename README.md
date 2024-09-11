@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Kush Blog](https://github.com/Kushhhhhhhh/KushBlog-UI)
 
-- 🌱 I’m currently learning **Next JS FullStack**
+- 🌱 Continuously expanding my skill set, I’m now delving into **Next.js Full Stack development**.
 
-- 👨‍💻 All of my projects are available at [https://kushsharma.vercel.app/](https://kushsharma.vercel.app/)
+- 👨‍💻 You can explore all my projects and contributions on my portfolio: [Portfolio](https://kushsharma.vercel.app)
+  
+- 💬 Feel free to ask me about **JavaScript, React.js,** or any other web technologies!
 
-- 💬 Ask me about **JavaScript, React JS**
-
-- 📫 How to reach me **kush.73888@gmail.com**
+- 📫  You can reach me at **kush.73888@gmail.com** for any queries or collaboration opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
