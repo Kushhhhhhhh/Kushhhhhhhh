@@ -11,7 +11,7 @@
   
 - 💬 Feel free to ask me about **JavaScript, React.js,** or any other web technologies!
 
-- 📫  You can reach me at **kush.73888@gmail.com** for any queries or collaboration opportunities.
+- 📫  You can reach me at **fullstack.kush@gmail.com** for any queries or collaboration opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
