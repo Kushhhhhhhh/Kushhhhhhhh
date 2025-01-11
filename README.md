@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kush Sharma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">I dive deep into concepts, own my work, and solve problems my way—crafting solutions that matter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushhhhhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kushhhhhhhh" /> </p>
 
