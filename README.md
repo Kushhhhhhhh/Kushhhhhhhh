@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can explore all my projects and contributions on my portfolio: [Portfolio](https://kush-sharma.vercel.app)
   
-- 💬 Feel free to ask me about **JavaScript, React.js,** or any other web technologies!
+- 💬 Feel free to ask me about **JavaScript, Next.js,** or any other web technologies!
 
 - 📫  You can reach me at **fullstack.kush@gmail.com** for any queries or collaboration opportunities.
 
